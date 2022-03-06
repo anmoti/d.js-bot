@@ -1,0 +1,25 @@
+{
+  "name": "d.js-bot",
+  "version": "1.0.2",
+  "description": "これは自分用です。\r ClientやMessageに直接生えさせているのがいやだという方はしようしないでください。",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anmoti/d.js-bot.git"
+  },
+  "keywords": [
+    "discord.js"
+  ],
+  "author": "Anmoti (_japan)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anmoti/d.js-bot/issues"
+  },
+  "homepage": "https://github.com/anmoti/d.js-bot#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
